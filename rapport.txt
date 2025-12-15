@@ -1,0 +1,16 @@
+RAPPORT D'ANALYSE DES RESULTATS
+-----------------------------------
+
+Moyenne en Maths : 16.83
+Moyenne en NSI   : 13.00
+
+Moyenne générale par élève :
+- Galois : 14.50
+- Gauss : 15.50
+- Euler : 17.00
+- Bachi : 12.50
+- Prag : 13.00
+- Oce : 17.00
+
+Meilleur élève : Euler (17.00)
+Matière la plus réussie : Maths
