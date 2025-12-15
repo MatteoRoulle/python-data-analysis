@@ -92,6 +92,3 @@ Moyenne générale par élève :
 Meilleur élève : Euler (17.00)
 Matière la plus réussie : Maths
 ```
-
-
-Projet réalisé dans le cadre d’un portfolio personnel en Python, avec un focus sur la clarté du code et l’utilité concrète.
